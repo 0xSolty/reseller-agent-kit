@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="reseller-agent-kit" width="100%">
+  <img src="banner.png" alt="reseller-agent-kit" width="100%">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ It's a **decision engine, not a money printer.** It does the research, pricing, 
 ## How the loop works
 
 <p align="center">
-  <img src="assets/loop.png" alt="Source, List, Sell, Ship, Reprice, Report — every item clears a 35% margin floor first" width="100%">
+  <img src="loop.png" alt="Source, List, Sell, Ship, Reprice, Report — every item clears a 35% margin floor first" width="100%">
 </p>
 
 ## Quickstart
