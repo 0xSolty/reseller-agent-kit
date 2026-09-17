@@ -1,0 +1,11 @@
+{
+  "name": "reseller-agent-kit",
+  "version": "1.0.0",
+  "description": "Turns Claude into an autonomous reseller operator: sold-comp sourcing, hard margin floor, honest listings, buyer comms, daily P&L. Recommends; you execute.",
+  "author": {
+    "name": "0xSolty",
+    "url": "https://x.com/0xSolty"
+  },
+  "license": "MIT",
+  "keywords": ["reselling", "ebay", "agent", "sourcing", "arbitrage", "automation"]
+}
